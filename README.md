@@ -2,4 +2,4 @@
 
 Challenge from appbrewery
 
-link=> 
+link=> https://syarifabdurrahman.github.io/RanDice/
