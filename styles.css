@@ -1,0 +1,77 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+body {
+  background-color: #630A10;
+  margin-bottom: 1%;
+}
+
+.navbar {
+  background-color: #911F27;
+  margin-bottom: 3%;
+}
+
+.icon{
+  color: white;
+  display: inline-block;
+}
+
+.icon-text{
+  font-family: 'Amatic SC',
+  cursive;
+  font-weight: 900;
+  display: inline-block;
+   color: white;
+}
+
+.result-text{
+  font-family: 'Montserrat',
+  sans-serif;
+  font-weight: 900px;
+  color: #F7F6F2;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+.link{
+  text-decoration: none;
+   font-family: 'Amatic SC',
+   cursive;
+  font-weight: bold;
+  margin: 30px;
+  font-size: 3rem;
+  color: #FCF0C8;
+}
+
+h1 a:hover{
+  color: #911F27;
+}
+
+p {
+  font-size: 2rem;
+  color: #FCF0C8;
+  font-family: 'Montserrat',
+  sans-serif;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 2.1%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
+
+.btm-own{
+  font-size: small;
+}
